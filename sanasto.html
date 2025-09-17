@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Words Repository</title>
+  <title>Sanastot</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     body { font-family: system-ui, sans-serif; margin: 2rem; }
@@ -17,21 +17,21 @@
   </style>
 </head>
 <body>
-  <h1>Words Repository</h1>
+  <h1>Sanastot</h1>
 
   <div class="controls">
     <div>
-      <label>Search</label>
-      <input id="q" type="search" placeholder="Type to filter…" />
+      <label>Haku</label>
+      <input id="q" type="search" placeholder="Hae…" />
     </div>
     <div>
-      <label>Tag filter</label>
+      <label>Erikoisala</label>
       <select id="tag">
-        <option value="">— any tag —</option>
+        <option value="">— kaikki erikoisalat —</option>
       </select>
     </div>
     <div>
-      <button id="reset">Reset</button>
+      <button id="reset">Tyhjennä</button>
     </div>
   </div>
 
@@ -40,9 +40,9 @@
   <table id="tbl">
     <thead>
       <tr>
-        <th data-key="text">Text ⬍</th>
-        <th data-key="source">Source ⬍</th>
-        <th>Tags</th>
+        <th data-key="text">Teksti ⬍</th>
+        <th data-key="source">Erikoisala ⬍</th>
+        <th>Tagit</th>
       </tr>
     </thead>
     <tbody></tbody>
@@ -136,3 +136,4 @@
 </body>
 
 </html>
+
