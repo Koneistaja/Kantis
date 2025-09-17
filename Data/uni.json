@@ -1,0 +1,604 @@
+[
+  {
+    "text": "2PV",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "AHI (koko yölle, selällään, kyljellään)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "AI (apneaindeksi)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "AirFit N10 -nenämaski",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "AirSense 10 -laite",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "AirView",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Aktigrafia",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Akudocs (sähköinen dokumenttiarkisto)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "alaarikollapsi",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Amara View -maski",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ApneaLink (home sleep testing device)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Astrup (arvoja: Be, pCO2, HCO3, pH)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ASV (adaptiivinen servoventilaattori / -ventilaatio)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "AutoSet",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Bi-Flex",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "bruksismi (hampaiden narskutus)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "CAI (central apnea index)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Cheyne-Stokes-hengitys (CS tai CSR eli Cheyne-Stokes respiration)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "cmH2O (vesisenttimetri)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "CPAP-hoito/-laite",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "CPAP AutoSet -laite/-paineet",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "CS-laite",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "DentiTrac (seurainlaite hoitokomplianssiin hengityslaitteissa)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Embla/Embletta",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Emfit QS -uni- ja palautumismittari",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "EPAP (expiratory positive airways pressure)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "EPR (uloshengityksenaikainen paineenlasku)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ESS-pisteet (Epworth Sleepiness Scale)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "EtCO2 (uloshengityksen hiilidioksidipitoisuus)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "GHQ-12 0-12 (General Health Questionnaire)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "HumidAir-kostutin",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "hypopnea",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ihohiilidioksidi",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "kefalomeeting",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "kefalometria",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "KT (käyttötehokkuus)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Le Fort -osteotomia",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "LWT fatigue test",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Mallampati-asteikko (I-IV)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "mentolabiaalinen",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "MSLT (Multiple Sleep Latency Test)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "MURT-reaktioaikatutkimus (Multiple Unprepared Reaction Time)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "MWT-tutkimus (hereilläpysymistutkimus)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "myAir-etäkäyttösovellus",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "NOX-T3-rekisteröintilaite",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "NREM/non-REM",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ODI3",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ODI4 (Oxygen desaturation index)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "online-CPAP/CPAP-hoito online",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "OSLER-vireystilatutkimus (Oxford Sleep Resistance Test)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "patja-spiking",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "PG (polygrafia)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "PLM-indeksi (periodittainen jalkojen liikehdintä)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "PS (pressure support)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "PSG, polysomnografia",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ramp-toiminto (CPAP)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "RBD (REM Behavior Disorder)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "REM",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "RemLogic",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Remote Analysis Oy",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "REMstar",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "RDI (respiratory disturbance index)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "ResScan",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "retrognatia, retrognaattinen",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "retrusiivinen, retrusiiviset kasvonpiirteet",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "RFTA-hoito",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "REI = respiratory event index",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "RI = respiratory index",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "S9-laite (AutoSet ja H5i-kostutin)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "SaO2",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "SERVE-HF-tutkimus",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "sierainmaski",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "SoftGel-maski (kokomerkintänä S-M-L?)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "sympatikotonia",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "T90-arvo",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "tcCO2 (transkutaaninen hiilidioksidi)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "TIB (time in bed)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "transkutaaninen hiilidioksidi",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "TST (total sleep time)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "UARS (upper airway resistance syndrome)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Ultra Mirage -maski",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "Unesta (yksityinen klinikka)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "UPPP-leikkaus (uvulopalatopharyngoplastia)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "vesisenttimetri (cmH2O)",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "VPAP-laite",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  },
+  {
+    "text": "yöoksimetria",
+    "source": "uni",
+    "tags": [
+      "uni"
+    ]
+  }
+]
