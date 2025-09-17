@@ -85,7 +85,7 @@
     function buildTagFilter(data) {
       const tags = new Set();
       data.forEach(r => r.tags.forEach(t => tags.add(t)));
-      const opts = ['<option value="">— any tag —</option>']
+      const opts = ['<option value="">— kaikki erikoisalat —</option>']
         .concat([...tags].sort().map(t => `<option value="${escapeHtml(t)}">${escapeHtml(t)}</option>`));
       $tag.innerHTML = opts.join('');
     }
@@ -136,5 +136,6 @@
 </body>
 
 </html>
+
 
 
