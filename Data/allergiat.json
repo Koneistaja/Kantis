@@ -105,27 +105,6 @@
     ]
   },
   {
-    "text": "Allergiakeskus",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "Allergiakeskus / Tutkimuksia Lyhenne",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "Allergiatutkimukset:",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "alopecia",
     "source": "allergiat",
     "tags": [
@@ -385,13 +364,6 @@
     ]
   },
   {
-    "text": "Canoderm-voide",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "caprylhydroxamic acid",
     "source": "allergiat",
     "tags": [
@@ -490,21 +462,7 @@
     ]
   },
   {
-    "text": "DermaStamp",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "Dermatophagoides pteronyssinus (pölypunkki)",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "dermografismus",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -819,13 +777,6 @@
     ]
   },
   {
-    "text": "Gottronin papulat / Gottronin oireet",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "GSK:n astmatesti (GlaxoSmithKline)",
     "source": "allergiat",
     "tags": [
@@ -876,13 +827,6 @@
   },
   {
     "text": "Hevea brasiliensis (kumipuu)",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "Hidradenitis suppurativa (HS)",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -953,13 +897,6 @@
   },
   {
     "text": "Impulssioskillometria IOS",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "infliksimabi",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -1085,20 +1022,6 @@
     ]
   },
   {
-    "text": "KIN-voide (klooriheksidiini-Ibaril-Novalan)",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "Kirjoitusohjeita testeille: http://huslab.fi/cgi-bin/ohjekirja/tt_show.exe?assay=3836&terms=s-allige",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "kirjovehka ja köynnösvehka (Dieffenbachia)",
     "source": "allergiat",
     "tags": [
@@ -1142,13 +1065,6 @@
   },
   {
     "text": "konjunktiiva (suom.), conjunctiva (lat.)",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "konjunktiviitti",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -1303,13 +1219,6 @@
   },
   {
     "text": "lipidienkuljetusproteiinit (LTP)",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "LSA (lichen sclerosus)",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -1533,13 +1442,6 @@
     ]
   },
   {
-    "text": "PASI",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "PASTUFENO-tutkimus",
     "source": "allergiat",
     "tags": [
@@ -1562,13 +1464,6 @@
   },
   {
     "text": "Pediator-ohjelma",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "peikonlehti (Monstera)",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -1764,13 +1659,6 @@
     ]
   },
   {
-    "text": "ragadi",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "Rasitusimpulssioskillometria RIOS, R-IOS",
     "source": "allergiat",
     "tags": [
@@ -1828,13 +1716,6 @@
   },
   {
     "text": "RFTA-hoito",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "rh. p. / rh. a. (rhinoscopia posterior/anterior)",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -2828,13 +2709,6 @@
     ]
   },
   {
-    "text": "seborrooinen",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "semi-open (ihotesti)",
     "source": "allergiat",
     "tags": [
@@ -2961,13 +2835,6 @@
     ]
   },
   {
-    "text": "tentakkeli (korvainstrumentti)",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "thiuram-mix (allergeeni)",
     "source": "allergiat",
     "tags": [
@@ -2983,13 +2850,6 @@
   },
   {
     "text": "Toistotesti ROAT",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "tree-in-bud-muodostelma",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -3024,21 +2884,7 @@
     ]
   },
   {
-    "text": "Ubistesin",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "UIP-tauti",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
-    "text": "ungt.",
     "source": "allergiat",
     "tags": [
       "allergiat"
@@ -3136,13 +2982,6 @@
     ]
   },
   {
-    "text": "www.erimenu.fi",
-    "source": "allergiat",
-    "tags": [
-      "allergiat"
-    ]
-  },
-  {
     "text": "xanthogranuloma",
     "source": "allergiat",
     "tags": [
@@ -3163,4 +3002,5 @@
       "allergiat"
     ]
   }
+
 ]
