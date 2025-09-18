@@ -7,13 +7,6 @@
     ]
   },
   {
-    "text": "affisioida",
-    "source": "hampaat",
-    "tags": [
-      "hampaat"
-    ]
-  },
-  {
     "text": "AI, AII jne. (purenta, roomalaiset numerot); alaluokat esim. AII-2/AII2/AII,2",
     "source": "hampaat",
     "tags": [
@@ -50,13 +43,6 @@
   },
   {
     "text": "angulukset",
-    "source": "hampaat",
-    "tags": [
-      "hampaat"
-    ]
-  },
-  {
-    "text": "ankyloosi",
     "source": "hampaat",
     "tags": [
       "hampaat"
@@ -798,13 +784,6 @@
     ]
   },
   {
-    "text": "marsupialisaatio",
-    "source": "hampaat",
-    "tags": [
-      "hampaat"
-    ]
-  },
-  {
     "text": "maxilla",
     "source": "hampaat",
     "tags": [
@@ -1232,20 +1211,6 @@
     ]
   },
   {
-    "text": "retrusiivinen",
-    "source": "hampaat",
-    "tags": [
-      "hampaat"
-    ]
-  },
-  {
-    "text": "RL (röntgenlausunto) ruusupora",
-    "source": "hampaat",
-    "tags": [
-      "hampaat"
-    ]
-  },
-  {
     "text": "S.E.T (kaarimerkki)",
     "source": "hampaat",
     "tags": [
@@ -1449,13 +1414,6 @@
     ]
   },
   {
-    "text": "trabekulaatio",
-    "source": "hampaat",
-    "tags": [
-      "hampaat"
-    ]
-  },
-  {
     "text": "Transbond MiP",
     "source": "hampaat",
     "tags": [
@@ -1485,13 +1443,6 @@
   },
   {
     "text": "trismus (a condition of restricted opening of the mouth)",
-    "source": "hampaat",
-    "tags": [
-      "hampaat"
-    ]
-  },
-  {
-    "text": "täytteen alus",
     "source": "hampaat",
     "tags": [
       "hampaat"
@@ -1574,4 +1525,5 @@
       "hampaat"
     ]
   }
+
 ]
