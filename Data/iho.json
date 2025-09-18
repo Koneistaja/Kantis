@@ -140,13 +140,6 @@
     ]
   },
   {
-    "text": "Avitcid",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
     "text": "Bactigras-taitos",
     "source": "iho",
     "tags": [
@@ -168,13 +161,6 @@
     ]
   },
   {
-    "text": "bipolaaripoltto",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
     "text": "Blaschkon linjat/viivat",
     "source": "iho",
     "tags": [
@@ -183,20 +169,6 @@
   },
   {
     "text": "Blastocystis hominis",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "Bowenin tauti",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "bowenoidi papuloosi",
     "source": "iho",
     "tags": [
       "iho"
@@ -400,13 +372,6 @@
   },
   {
     "text": "Diprosalic",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "DLQI",
     "source": "iho",
     "tags": [
       "iho"
@@ -728,20 +693,6 @@
     ]
   },
   {
-    "text": "isotretinoiini",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "isotretinoiini",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
     "text": "kapeakaista-UVB",
     "source": "iho",
     "tags": [
@@ -840,13 +791,6 @@
     ]
   },
   {
-    "text": "Limbergin kieleke",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
     "text": "lipschütz-haavauma",
     "source": "iho",
     "tags": [
@@ -883,20 +827,6 @@
   },
   {
     "text": "lupus erythematosus",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "Lääkeaineita:",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "Lääkkeet/rasvat/muut hoidot:",
     "source": "iho",
     "tags": [
       "iho"
@@ -945,13 +875,6 @@
     ]
   },
   {
-    "text": "Metvix-voide (PDT-valohoidon yhteydessä)",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
     "text": "metyleenisinipenslaus",
     "source": "iho",
     "tags": [
@@ -960,13 +883,6 @@
   },
   {
     "text": "MLPA-tekniikka (genetiikassa)",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "Morbus Bowen (Bowenin tauti)",
     "source": "iho",
     "tags": [
       "iho"
@@ -995,13 +911,6 @@
   },
   {
     "text": "nasolabiaalipoimu",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "neevus (lat. naevus)",
     "source": "iho",
     "tags": [
       "iho"
@@ -1100,13 +1009,6 @@
   },
   {
     "text": "PDT-hoito",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "pemfigoidi",
     "source": "iho",
     "tags": [
       "iho"
@@ -1344,13 +1246,6 @@
     ]
   },
   {
-    "text": "stria",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
     "text": "subepidermaalinen",
     "source": "iho",
     "tags": [
@@ -1408,13 +1303,6 @@
   },
   {
     "text": "ungt. (lyh., unguentum)",
-    "source": "iho",
-    "tags": [
-      "iho"
-    ]
-  },
-  {
-    "text": "unroofing",
     "source": "iho",
     "tags": [
       "iho"
@@ -1511,4 +1399,5 @@
       "iho"
     ]
   }
+
 ]
