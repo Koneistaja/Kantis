@@ -588,13 +588,6 @@
     ]
   },
   {
-    "text": "FEES-tutkimus (fiberoptic endoscopic evaluation of swallowing)",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
     "text": "Flow-ball-harjoituslaite",
     "source": "foniatria",
     "tags": [
@@ -784,13 +777,6 @@
     ]
   },
   {
-    "text": "Tärkeimmät puhelihakset:",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
     "text": "VAPP-äänikysely (Voice Activity and Participation Profile)",
     "source": "foniatria",
     "tags": [
@@ -939,13 +925,6 @@
   },
   {
     "text": "nielu (pharynx); pharynx",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
-    "text": "leuka (jaw)",
     "source": "foniatria",
     "tags": [
       "foniatria"
@@ -1106,45 +1085,11 @@
     ]
   },
   {
-    "text": "vatsalihakset (abdominal muscles)",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
-    "text": "suora vatsalihas",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
-    "text": "vino vatsalihas",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
-    "text": "poikittainen vatsalihas",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
-    "text": "rintalihakset (thoracic muscles)",
-    "source": "foniatria",
-    "tags": [
-      "foniatria"
-    ]
-  },
-  {
     "text": "GLOSSOPHARYNGEUS = CONSTRICTOR PHARYNGIS SUPERIOR",
     "source": "foniatria",
     "tags": [
       "foniatria"
     ]
   }
+
 ]
