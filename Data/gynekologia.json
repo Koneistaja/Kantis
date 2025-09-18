@@ -357,13 +357,6 @@
     ]
   },
   {
-    "text": "Fontanelli (aukile)",
-    "source": "gynekologia",
-    "tags": [
-      "gynekologia"
-    ]
-  },
-  {
     "text": "fornix",
     "source": "gynekologia",
     "tags": [
@@ -455,21 +448,7 @@
     ]
   },
   {
-    "text": "HPV Ihmisen papilloomavirus (Human papilloma virus)",
-    "source": "gynekologia",
-    "tags": [
-      "gynekologia"
-    ]
-  },
-  {
     "text": "hrHPV (testi kohdunkaulan hoidetun esiastemuutoksen seurantaan)",
-    "source": "gynekologia",
-    "tags": [
-      "gynekologia"
-    ]
-  },
-  {
-    "text": "HSIL vahva-asteinen levyepiteelimuutos (high-grade squamous intraepithelial lesion)",
     "source": "gynekologia",
     "tags": [
       "gynekologia"
@@ -603,13 +582,6 @@
   },
   {
     "text": "LLETZ large loop excision of the transformation zone",
-    "source": "gynekologia",
-    "tags": [
-      "gynekologia"
-    ]
-  },
-  {
-    "text": "LSIL lieväasteinen levyepiteelimuutos (low-grade squamous intraepithelial lesion)",
     "source": "gynekologia",
     "tags": [
       "gynekologia"
@@ -1091,4 +1063,5 @@
       "gynekologia"
     ]
   }
+
 ]
