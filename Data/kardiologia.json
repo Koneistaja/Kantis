@@ -1491,13 +1491,6 @@
     ]
   },
   {
-    "text": "fat pad sign",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
     "text": "fenestraatio, leikkauksen yhteydessä tehty reikä, joka alentaa sydämeen palaavan veren painetta",
     "source": "kardiologia",
     "tags": [
@@ -1583,13 +1576,6 @@
   },
   {
     "text": "galoppi",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
-    "text": "gap (käppi)",
     "source": "kardiologia",
     "tags": [
       "kardiologia"
@@ -2100,13 +2086,6 @@
     ]
   },
   {
-    "text": "kissing",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
     "text": "klikki",
     "source": "kardiologia",
     "tags": [
@@ -2122,13 +2101,6 @@
   },
   {
     "text": "kolmen suonen tauti",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
-    "text": "kolmikuspinen",
     "source": "kardiologia",
     "tags": [
       "kardiologia"
@@ -3115,13 +3087,6 @@
     ]
   },
   {
-    "text": "pigtail-katetri",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
     "text": "Pilot 50",
     "source": "kardiologia",
     "tags": [
@@ -3536,20 +3501,6 @@
   },
   {
     "text": "ratsastava embolia",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
-    "text": "ratsastava läppä (läppä johtaa kahteen kammioon)",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
-    "text": "ratsastava verisuoni (verisuoni lähtee ja saa verta molemmista kammioista)",
     "source": "kardiologia",
     "tags": [
       "kardiologia"
@@ -4089,13 +4040,6 @@
   },
   {
     "text": "STJ = sinotubulaarijunktio, aortan mittauskohta",
-    "source": "kardiologia",
-    "tags": [
-      "kardiologia"
-    ]
-  },
-  {
-    "text": "strain-muutos strutsi (engl. strut)",
     "source": "kardiologia",
     "tags": [
       "kardiologia"
@@ -4829,4 +4773,5 @@
       "kardiologia"
     ]
   }
+
 ]
