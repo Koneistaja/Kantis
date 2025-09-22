@@ -272,10 +272,103 @@ Tämän jälkeen klikkaa Hyväksy, ja tallenna lähete. Kun ohjelma sanoo, että
 <details>
   <summary id="section8"><strong>8. KLF/KNF</strong></summary>
   <p>Tutkimuslausunnot (esim. EEG-lausunto), puretaan otsikon Tutkimukset alle, lisäotsikoksi mistä lausunnosta kyse.</p>
-  <p>Yöpolygrafioissa käytetään alla olevaa fraasipohjaa sekä asettelua, ja alla oleva kursivoitu tekstikappale kopioidaan aina <b>yöpolygrafia</b>tutkimuslausunnon alkuun.<br><br>
-Otsikko: Tutkimukset<br>Lisäotsikko: Suppea yöpolygrafia<br><br>
-<i>Rekisteröity hengityksen painesignaali nenäilmavirrasta, hengitysliikkeet venymäanturein rintakehän ja vatsan yläosan alueelta, kuorsausääni. Lisäksi nukkumisasento ja pulssioksimetria. Kaikki automaattisen analyysin detektiot on tarkistettu visuaalisesti ja tarvittaessa korjattu manuaalisesti. Hengityshäiriöiden skooraus AASM2013-kriteerein. Hypopneaan liittyy vähintään 3 %-yksikön desaturaatio.</i></p>
-<p>Indeksoitu aika<br>KokonaisAHI<br>AHI selällään<br>AHI muissa asennoissa kuin selällään<br>Sellällään nukuttu aika %<br>Keskimääräinen happisaturaatio %<br>Alin saturaatio %<br>ODI3<br>Kuorsausta %<br>Flow limitation indeksi %<br><br>Arvio:</p>
+  <p>Yöpolygrafioissa käytetään alla olevaa fraasipohjaa sekä asettelua, ja alla oleva kursivoitu tekstikappale kopioidaan aina <b>yöpolygrafia</b>tutkimuslausunnon alkuun.<br>
+
+<!-- Copy Snippet Card (DIV-based) -->
+<div class="copy-card">
+  <div class="copy-label">Otsikko: Tutkimukset, lisäotsikko: Suppea yöpolygrafia</div>
+
+  <!-- Your visible snippet (read-only card) -->
+  <div id="snippet1" class="copy-block" role="textbox" aria-readonly="true" tabindex="0">Rekisteröity hengityksen painesignaali nenäilmavirrasta, hengitysliikkeet venymäanturein rintakehän ja vatsan yläosan alueelta, kuorsausääni. Lisäksi nukkumisasento ja pulssioksimetria. Kaikki automaattisen analyysin detektiot on tarkistettu visuaalisesti ja tarvittaessa korjattu manuaalisesti. Hengityshäiriöiden skooraus AASM2013-kriteerein. Hypopneaan liittyy vähintään 3 %-yksikön desaturaatio.
+
+Indeksoitu aika
+KokonaisAHI
+AHI selällään
+AHI muissa asennoissa kuin selällään
+Sellällään nukuttu aika %
+Keskimääräinen happisaturaatio %
+Alin saturaatio %
+ODI3
+Kuorsausta %
+Flow limitation indeksi %
+
+Arvio:</div>
+
+  <div class="copy-row">
+    <button class="copy-btn" data-target="snippet1" type="button">Kopioi teksti</button>
+    <span class="copy-status" aria-live="polite"></span>
+  </div>
+</div>
+
+<style>
+  .copy-card { border: 1px solid #ddd; border-radius: .75rem; padding: 1rem; max-width: 800px; background: #fff; }
+  .copy-label { font-size: .95rem; color: #444; margin-bottom: .5rem; }
+  .copy-block {
+    white-space: pre-wrap; /* keep line breaks */
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    line-height: 1.4;
+    padding: .75rem;
+    border: 1px solid #ccc;
+    border-radius: .5rem;
+    background: #f5f7fb;
+    color: #222;
+    user-select: text; /* allow manual selection if desired */
+    outline: none;
+    transition: box-shadow .15s ease, border-color .15s ease;
+  }
+  .copy-block:hover, .copy-block:focus-visible {
+    border-color: #bbb;
+    box-shadow: 0 0 0 3px rgba(0,0,0,.04);
+  }
+  .copy-row { display: flex; gap: .75rem; align-items: center; margin-top: .6rem; flex-wrap: wrap; }
+  .copy-btn {
+    padding: .55rem .9rem; border-radius: .5rem; border: 1px solid #ccc; cursor: pointer; background: #fff;
+  }
+  .copy-btn:active { transform: translateY(1px); }
+  .copy-status { min-width: 5ch; color: #2f7b2f; font-size: .95rem; }
+</style>
+
+<script>
+  // Copy button (works on GitHub Pages over HTTPS)
+  document.addEventListener('click', async (e) => {
+    const btn = e.target.closest('.copy-btn');
+    if (!btn) return;
+
+    const id = btn.getAttribute('data-target');
+    const el = document.getElementById(id);
+    const status = btn.parentElement.querySelector('.copy-status');
+    const text = el.innerText; // preserves line breaks as seen
+
+    try {
+      await navigator.clipboard.writeText(text);
+      status.textContent = 'Kopioitu!';
+    } catch {
+      // Fallback: temporarily create a hidden textarea to copy from
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      ta.setAttribute('readonly', '');
+      ta.style.position = 'fixed';
+      ta.style.opacity = '0';
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      ta.remove();
+      status.textContent = 'Kopioitu!';
+    }
+    setTimeout(() => status.textContent = '', 1500);
+  });
+
+  // (Optional) Click the block itself to copy
+  document.getElementById('snippet1').addEventListener('click', async (e) => {
+    const text = e.currentTarget.innerText;
+    const status = e.currentTarget.parentElement.querySelector('.copy-status');
+    try {
+      await navigator.clipboard.writeText(text);
+      status.textContent = 'Kopioitu!';
+    } catch {/* ignore; button fallback still exists */}
+    setTimeout(() => status.textContent = '', 1500);
+  });
+</script>
   <p>Lauri Martikkala ei ole sanellut meille enää aikoihin, mutta hänen saneluissa (jos/kun käyntiriviä tarvitsee luoda) täytyy olla tarkkana, että kirjaustiedoissa lukee kons.l. Hänellä on kolme roolia valittavissa, joista kaksi on vääriä. Se, jossa lukee ESH Lääkäri (ainakin viimeksi se oli keskimmäinen näistä kolmesta), on oikea. Laitoin tuohon alle sitä käyttäjävalintaruutua vastaavahkon taulukon, eli näistä tuo boldattu on se joka kuuluu valita.</p>
 <table border="1">
   <tr>
@@ -356,6 +449,7 @@ Otsikko: Tutkimukset<br>Lisäotsikko: Suppea yöpolygrafia<br><br>
     <th>Toimenpiteet</th>
     <th>Päivämäärä</th>
   </tr>
+  <tr><td>Sanastot karsittu! Poistin yli 500 riviä huonoja termejä ja duplikaatteja. Vielä on aimo läjä termejä väärien erikoisalojen alla, mutta en tosiaankaan lupaa että korjaan niitä, ne on ihan yhtä (tai enemmän) väärin noissa "virallisissa" sanastoissa.</td></tr>
   <tr><td>Sanastot lisätty. En tykännyt joutua selaamaan niitä Teamsin .docx-hirviöitä, niin importtasin ne tänne.<td>17.9.2025</td></td></tr>
   <tr><td>Forssan lastenpolin uusi vastaanottaja lisätty, ja perinnöllisyyslääkärilähetteen ohjeistus lisätty sisäisiin lähetteisiin. Myös vihdoin versio jota ei tarvii lähettää jokaiselle käyttäjälle erikseen jokaisen päivityksen yhteydessä.</td><td>25.8.2025</td></tr>
   <tr><td>Tein pieniä hinkkauksia eri osa-alueisiin, lisäsin Forssan lähetteitä koskevan maksusitoumuslausekkeen ohjeistuksen.</td><td>1.8.2025</td></tr>
