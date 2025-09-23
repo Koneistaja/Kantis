@@ -58,12 +58,13 @@
     "links": []
   },
   {
-    "versio": "1.0.0",
-    "pvm": "2025-07-22",
-    "tag": "Tiedosto luotu",
-    "muutokset": [
+    "version": "1.0.0",
+    "date": "2025-07-22",
+    "tagline": "Tiedosto luotu",
+    "changes": [
       {"type": "Alku", "text": "Tehty tämän tiedoston eka versio."}
     ],
     "links": []
   }
 ]
+
