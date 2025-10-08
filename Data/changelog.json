@@ -5,8 +5,7 @@
     "tagline": "Päivityksiä",
     "changes": [
       {"type": "Muutos", "text": "Forssan viestipiikkilista päivitetty vastaamaan uutta ohjetta."}
-      {"type": "Lisäys", "text": "Lisätty 26rama kardiologian sanelijoihin."}
-      {"type": "Lisäys", "text": "Lisätty päivystyksen ohjeisiin maininta TÄKY-merkinnästä."}
+      {"type": "Lisäys", "text": "Lisätty 26rama kardiologian sanelijoihin, sekä päivystyksen ohjeeseen maininta TÄKY-merkinnästä."}
     ],
     "links": []
   },
@@ -78,5 +77,6 @@
     "links": []
   }
 ]
+
 
 
