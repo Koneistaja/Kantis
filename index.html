@@ -221,7 +221,7 @@ Päivystyslähetteeseen: Lähete toimii maksusitoumuksena kiireellisen hoidon aj
             <li>Sydänsali sydänsairaala</li>
             <li>Osasto 6BK</li>
         </ul>
-        Nykytilanteessa täältä sanelevat lääkärit: Mohamad Khedr (<b>01khmo</b>), Sumit Chetta (<b>01chsu</b>), Inayatullah Shuaibi (<b>01shin</b>).</p>
+        Nykytilanteessa täältä sanelevat lääkärit: Mohamad Khedr (<b>01khmo</b>), Sumit Chetta (<b>01chsu</b>), Inayatullah Shuaibi (<b>01shin</b>), Markus Ramste (<b>26rama</b>).</p>
         <p>Sydänsairaalasta saneltujen B1-lausuntojen allekirjoitusosiosta poistetaan koko Kanta-Hämeen HVA -rimpsu ja sen tilalle laitetaan <i>Sydänsairaala Hämeenlinna/Riihimäki, kardiologian poliklinikka</i> (riippuen sanelupaikkakunnasta).</p>
         <p>Toisin kuin muissa saneluyksiköissä, ELLÄHiin ei laiteta maksusitoumuslauseketta, jos lähete menee Taysin sydänsairaalaan.</p>
         <p>Sydänsairaalasta Tampereelle meneviin lähetteisiin laitetaan vasemmassa yläkulmassa olevaan Lähettävä laitos/yksikkö -kenttään Kanta-Hämeen HVA:n tilalle Sydänsairaala Hämeenlinna/Riihimäki, kardiologian poliklinikka, tai osasto 6BK, riippuen siitä missä sanellaan.</p>
@@ -294,6 +294,7 @@ Päivystyslähetteeseen: Lähete toimii maksusitoumuksena kiireellisen hoidon aj
         <h2>7. Päivystys/tarkkailu/SERI</h2>
             <p>Päivystyksen sanelut kirjoitetaan PAIV-lehdelle, rinnakkaisnäkymäksi erikoisalalehti jos ei ole jo laitettu ja sanellaan potilaan siirtyvän esim. kirurgialle jatkohoitoon, jolloin PAIV-lehden rinnakkaisnäkymäksi KIR.</p>
             <p><b>Kaikki</b> päivystyksen (<i>ppaiv</i>) ja tarkkailun (<i>oseah</i>) sanelut laitetaan jatkokäsittelyyn. Myös sellaiset, joissa ei jatkokäsiteltävää ole.</p>
+            <p>Jos sanelu on työtapaturmasta tai liikennevahingosta, laitetaan sanelun kommenttikenttään TÄKY-maininta.</p>
             <p>Poliisilausuntojen osalta ks. erillinen ohje ja mallipohja Kanta-Hämeen HVA -kanavan tiedostoista.</p>
             <p>SERI-tekstit kirjoitetaan SERI-lehdelle (vaatii suorituspaikan vaihdon Lifecaressa), <b>paitsi</b> jos kyseessä on lausunto poliisille. Nämä kirjoitetaan erillisen poliisilausunto-ohjeen ja -pohjan mukaisesti Word-tiedostoon, joka laitetaan saneluun liitteeksi ja SERI- tai Osasto 1 -täpän kanssa jatkokäsittelyyn.</p>
     </section>
@@ -419,16 +420,17 @@ Arvio:</div>
                     <th>Vastaanottajat</th>
                 </tr>
 
-                <tr><td>Iho, onkologia, gyne, urologia (IHO, ONKO, GYN, KIR)</td><td>02sama, 04raro, 12lata, 01daul</td>
-                <tr><td>Lapset (LAS)</td><td>02sama, 04raro, 12lata, 01daul, 01rumi</td>
-                <tr><td>Reuma, diabetes, nefro (SIS)</td><td>04raro, 02sama, 12lata, 01daul</td>
-                <tr><td>Skopiat, gastro, yleissisätaudit, kardiologia, neurologia</td><td>01muni, 12lata, 04lema</td>
-                <tr><td>Silmät (SIL)</td><td>07kuka, 02kuei</td>
-                <tr><td>Pkl-kirurgian (ppokf) <b>toimenpiteet</b>: verisuonikir. ja plastkir., ortopedia ja urologia (KIR, URO)</td><td>04lema, 12lata</td>
-                <tr><td>Psykiatria (PSYKI)</td><td>02kute, 01vevi</td>
-                <tr><td>Päivystys, korvat, ortopedia, verisuonikir., plastkir., gastrokir., fysiatria, keuhkot (YLE, KIR, KNK ,FYS, KEU)</td><td>12lata, 04raro, 01daul</td>
-                <tr><td>Terveyskeskukset (Tammela, Ypäjä, Jokioinen)</td><td>Lääkärille itselleen</td>
-                <tr><td>Poliisilausunnot</td><td>12lata, 04raro</td>
+                <tr><td>Iho, urologia (IHO, KIR)</td><td>02sama, 04raro, 12lata, 01daul</td></tr>
+                <tr><td>Reuma, diabetes, nefrologia (SIS)<td><td>04raro, 01daul, 12lata</td></tr>
+                <tr><td>Lapset (LAS)</td><td>01rumi, 01mita, 12lata, 01daul</td></tr>
+                <tr><td>Kardiologia, neurologia (SIS)</td><td>01muni, 12lata, 01daul</td></tr>
+                <tr><td>Lastenpsykiatria (PSY)</td><td>01vevi, 02kute</td></tr>
+                <tr><td>Aikuispsykiatria (PSY)</td><td>02kute, 01vevi</td></tr>
+                <tr><td>Keuhkot (KEU)</td><td>04raro, 01daul, 12lata</td></tr>
+                <tr><td>Päivystys/kiirevastaanotto (YLE)</td><td>02kuei, 01mita, 01daul, 12lata</td></tr>
+                <tr><td>Ravitsemusterapeutti (RAV)</td><td>02sama, 12lata, 01daul, 04raro</td></tr>
+                <tr><td>Terveyskeskukset (Tammela, Ypäjä, Jokioinen)</td><td>Lääkärille itselleen</td></tr>
+                <tr><td>Poliisilausunnot</td><td>12lata, 04raro</td></tr>
             </table><br>
     </section>
 
@@ -549,3 +551,4 @@ Arvio:</div>
   </div>
 </body>
 </html>
+
