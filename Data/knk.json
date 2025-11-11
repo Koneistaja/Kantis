@@ -2821,6 +2821,13 @@
     ]
   },
   {
+    "text": "TEA-toimenpide, adenotonsillektomia",
+    "source": "knk",
+    "tags": [
+      "knk"
+    ]
+  },
+  {
     "text": "teknetium",
     "source": "knk",
     "tags": [
@@ -3025,6 +3032,13 @@
   },
   {
     "text": "ulompi korvakäytävä, ks. korvakäytävä",
+    "source": "knk",
+    "tags": [
+      "knk"
+    ]
+  },
+  {
+    "text": "Ultracil-putki",
     "source": "knk",
     "tags": [
       "knk"
@@ -3289,4 +3303,5 @@
       "knk"
     ]
   }
+
 ]
