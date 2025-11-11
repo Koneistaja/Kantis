@@ -2247,6 +2247,13 @@
     ]
   },
   {
+    "text": "Prader-Willin oireyhtymä",
+    "source": "neurologia",
+    "tags": [
+      "neurologia"
+    ]
+  },
+  {
     "text": "pramipeksoli",
     "source": "neurologia",
     "tags": [
@@ -3240,4 +3247,5 @@
       "neurologia"
     ]
   }
+
 ]
