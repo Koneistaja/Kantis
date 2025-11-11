@@ -8589,6 +8589,13 @@
     ]
   },
   {
+    "text": "Martorellin haava",
+    "source": "kirurgia",
+    "tags": [
+      "kirurgia"
+    ]
+  },
+  {
     "text": "Maryland LigaSure",
     "source": "kirurgia",
     "tags": [
@@ -15890,6 +15897,13 @@
     ]
   },
   {
+    "text": "VAS, visual analogue scale",
+    "source": "kirurgia",
+    "tags": [
+      "kirurgia"
+    ]
+  },
+  {
     "text": "vas deferens = siemenjohdin",
     "source": "kirurgia",
     "tags": [
@@ -16871,5 +16885,6 @@
   }
 
 ]
+
 
 
