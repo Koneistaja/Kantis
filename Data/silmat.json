@@ -1659,6 +1659,13 @@
     ]
   },
   {
+    "text": "dacryostenosis congenita",
+    "source": "silmat",
+    "tags": [
+      "silmat"
+    ]
+  },
+  {
     "text": "dakryokystiitti",
     "source": "silmat",
     "tags": [
@@ -9897,4 +9904,5 @@
       "silmat"
     ]
   }
+
 ]
