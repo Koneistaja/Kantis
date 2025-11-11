@@ -10458,6 +10458,13 @@
     ]
   },
   {
+    "text": "Stimulan-pelletit tai -helmet",
+    "source": "ortopedia",
+    "tags": [
+      "ortopedia"
+    ]
+  },
+  {
     "text": "S-ROM-varsi",
     "source": "ortopedia",
     "tags": [
@@ -12697,4 +12704,5 @@
       "ortopedia"
     ]
   }
+
 ]
