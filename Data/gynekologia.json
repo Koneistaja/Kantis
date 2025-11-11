@@ -196,6 +196,13 @@
     ]
   },
   {
+    "text": "CHEK2-geenivirhe",
+    "source": "gynekologia",
+    "tags": [
+      "gynekologia"
+    ]
+  },
+  {
     "text": "CIN 1 = lievä kypsymishäiriö (dysplasia levis)",
     "source": "gynekologia",
     "tags": [
@@ -323,6 +330,13 @@
   },
   {
     "text": "enteroseele",
+    "source": "gynekologia",
+    "tags": [
+      "gynekologia"
+    ]
+  },
+  {
+    "text": "FET = frozen embryo transfer",
     "source": "gynekologia",
     "tags": [
       "gynekologia"
@@ -756,6 +770,13 @@
     ]
   },
   {
+    "text": "Pierre-Robinin sekvenssi",
+    "source": "gynekologia",
+    "tags": [
+      "gynekologia"
+    ]
+  },
+  {
     "text": "Pipelle",
     "source": "gynekologia",
     "tags": [
@@ -896,6 +917,13 @@
     ]
   },
   {
+    "text": "top hat -hoito",
+    "source": "gynekologia",
+    "tags": [
+      "gynekologia"
+    ]
+  },
+  {
     "text": "torqueeraus, torkveeraus (torque/torquing) TOT-leikkaus (virtsankarkailu)",
     "source": "gynekologia",
     "tags": [
@@ -918,6 +946,13 @@
   },
   {
     "text": "TZ 1-3 (transformaatiovyöhyke)",
+    "source": "gynekologia",
+    "tags": [
+      "gynekologia"
+    ]
+  },
+  {
+    "text": "TZ-junktio",
     "source": "gynekologia",
     "tags": [
       "gynekologia"
@@ -1057,6 +1092,13 @@
     ]
   },
   {
+    "text": "Xylocain Dental Adrenalin",
+    "source": "gynekologia",
+    "tags": [
+      "gynekologia"
+    ]
+  },
+  {
     "text": "Xylocain-puudute (erit. geeli gynekologian puolella)",
     "source": "gynekologia",
     "tags": [
@@ -1065,3 +1107,4 @@
   }
 
 ]
+
