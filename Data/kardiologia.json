@@ -1491,6 +1491,13 @@
     ]
   },
   {
+    "text": "Fantastic 4 / fantastic four -lääkitys",
+    "source": "kardiologia",
+    "tags": [
+      "kardiologia"
+    ]
+  },
+  {
     "text": "fenestraatio, leikkauksen yhteydessä tehty reikä, joka alentaa sydämeen palaavan veren painetta",
     "source": "kardiologia",
     "tags": [
@@ -3948,6 +3955,13 @@
     ]
   },
   {
+    "text": "smoke (echossa)",
+    "source": "kardiologia",
+    "tags": [
+      "kardiologia"
+    ]
+  },
+  {
     "text": "SND, sinus node dysfunction, sinussolmukkeen toimintahäiriö",
     "source": "kardiologia",
     "tags": [
@@ -4775,3 +4789,4 @@
   }
 
 ]
+
